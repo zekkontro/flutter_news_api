@@ -3,7 +3,7 @@
 
 #### Flutter News API is the dart api of the https://newsapi.org/ site.
 
-![](https://github.com/zekkontro/flutter_news_api/blob/main/doc/Ads%C4%B1z.png?raw=true =350x100)
+![](https://github.com/zekkontro/flutter_news_api/blob/main/doc/Ads%C4%B1z.png?raw=true)
 
 ## -Features-
 - Get Articles by query
